@@ -1,0 +1,15 @@
+{
+    "name": "tkjn/phptestproviders",
+    "description": "Useful provider methods for unit testing",
+    "authors": [
+        {
+            "name": "TKJN",
+            "email": "tkjn@tkjngine.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tkjn\\TestProviders\\": "src/"
+        }
+    }
+}
